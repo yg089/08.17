@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#exsize{
+	height: 300px;
+	width: 200px;
+	padding: 20px;
+	margin:20px;
+	background: #000;
+}
